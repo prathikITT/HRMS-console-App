@@ -1,1 +1,2 @@
-# HRMS-console-App
+# HRMS-Application
+This is a project for L&amp;C. 
